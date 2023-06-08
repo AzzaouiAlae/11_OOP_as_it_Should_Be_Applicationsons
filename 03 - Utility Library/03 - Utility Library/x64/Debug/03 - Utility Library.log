@@ -1,0 +1,45 @@
+﻿  03 - Utility Library.cpp
+D:\source\11 - OOP as it Should Be (Applications)\03 - Utility Library\03 - Utility Library\clsUtility.h(253,6): warning C4091: 'static ': ignored on left of 'clsUtility::stPiggyBankContent' when no variable is declared
+D:\source\11 - OOP as it Should Be (Applications)\03 - Utility Library\03 - Utility Library\clsUtility.h(287,6): warning C4091: 'static ': ignored on left of 'clsUtility::SimpleCalculator' when no variable is declared
+D:\source\11 - OOP as it Should Be (Applications)\03 - Utility Library\03 - Utility Library\clsUtility.h(430,6): warning C4091: 'static ': ignored on left of 'clsUtility::strTaskDuration' when no variable is declared
+D:\source\11 - OOP as it Should Be (Applications)\03 - Utility Library\03 - Utility Library\clsUtility.h(68,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\03 - Utility Library\03 - Utility Library\clsUtility.h(68,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\03 - Utility Library\03 - Utility Library\clsUtility.h(68,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\03 - Utility Library\03 - Utility Library\clsUtility.h(113,21): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\03 - Utility Library\03 - Utility Library\clsUtility.h(123,21): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\03 - Utility Library\03 - Utility Library\clsUtility.h(128,42): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\03 - Utility Library\03 - Utility Library\clsUtility.h(133,39): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\03 - Utility Library\03 - Utility Library\clsUtility.h(138,43): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\03 - Utility Library\03 - Utility Library\clsUtility.h(144,22): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\03 - Utility Library\03 - Utility Library\clsUtility.h(230,1): warning C4305: 'return': truncation from 'double' to 'float'
+D:\source\11 - OOP as it Should Be (Applications)\03 - Utility Library\03 - Utility Library\clsUtility.h(233,1): warning C4305: 'return': truncation from 'double' to 'float'
+D:\source\11 - OOP as it Should Be (Applications)\03 - Utility Library\03 - Utility Library\clsUtility.h(236,1): warning C4305: 'return': truncation from 'double' to 'float'
+D:\source\11 - OOP as it Should Be (Applications)\03 - Utility Library\03 - Utility Library\clsUtility.h(239,1): warning C4305: 'return': truncation from 'double' to 'float'
+D:\source\11 - OOP as it Should Be (Applications)\03 - Utility Library\03 - Utility Library\clsUtility.h(373,21): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\03 - Utility Library\03 - Utility Library\clsUtility.h(378,82): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\03 - Utility Library\03 - Utility Library\clsUtility.h(378,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\03 - Utility Library\03 - Utility Library\clsUtility.h(387,34): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\03 - Utility Library\03 - Utility Library\clsUtility.h(435,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\03 - Utility Library\03 - Utility Library\clsUtility.h(436,32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\03 - Utility Library\03 - Utility Library\clsUtility.h(437,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\03 - Utility Library\03 - Utility Library\clsUtility.h(438,34): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\03 - Utility Library\03 - Utility Library\clsUtility.h(454,34): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\03 - Utility Library\03 - Utility Library\clsUtility.h(456,35): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\03 - Utility Library\03 - Utility Library\clsUtility.h(458,36): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\03 - Utility Library\03 - Utility Library\clsUtility.h(1067,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\03 - Utility Library\03 - Utility Library\clsUtility.h(1076,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\03 - Utility Library\03 - Utility Library\clsUtility.h(1092,20): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\03 - Utility Library\03 - Utility Library\clsUtility.h(1096,25): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\03 - Utility Library\03 - Utility Library\clsUtility.h(1099,31): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\03 - Utility Library\03 - Utility Library\clsUtility.h(1101,24): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\03 - Utility Library\03 - Utility Library\clsUtility.h(1107,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\03 - Utility Library\03 - Utility Library\clsUtility.h(1111,20): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\03 - Utility Library\03 - Utility Library\clsUtility.h(1116,24): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\03 - Utility Library\03 - Utility Library\clsUtility.h(1118,24): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\03 - Utility Library\03 - Utility Library\clsUtility.h(1125,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\source\11 - OOP as it Should Be (Applications)\03 - Utility Library\03 - Utility Library\clsUtility.h(1300,28): warning C4244: 'initializing': conversion from 'float' to 'short', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\03 - Utility Library\03 - Utility Library\03 - Utility Library.cpp(8,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\source\11 - OOP as it Should Be (Applications)\03 - Utility Library\03 - Utility Library\03 - Utility Library.cpp(8,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\source\11 - OOP as it Should Be (Applications)\03 - Utility Library\03 - Utility Library\03 - Utility Library.cpp(8,43): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\source\11 - OOP as it Should Be (Applications)\03 - Utility Library\03 - Utility Library\03 - Utility Library.cpp(8,55): warning C4305: 'initializing': truncation from 'double' to 'float'
+  03 - Utility Library.vcxproj -> D:\source\11 - OOP as it Should Be (Applications)\03 - Utility Library\x64\Debug\03 - Utility Library.exe

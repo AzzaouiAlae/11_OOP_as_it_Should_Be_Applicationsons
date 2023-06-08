@@ -1,0 +1,10 @@
+﻿  22 - User Class.cpp
+D:\source\11 - OOP as it Should Be (Applications)\22 - User Class\22 - User Class\clsString.h(134,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\22 - User Class\22 - User Class\clsString.h(240,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\22 - User Class\22 - User Class\clsString.h(263,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\22 - User Class\22 - User Class\clsString.h(345,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\22 - User Class\22 - User Class\clsString.h(394,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\22 - User Class\22 - User Class\clsString.h(408,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\22 - User Class\22 - User Class\clsUsers.h(34,106): warning C4244: 'argument': conversion from 'double' to 'short', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\22 - User Class\22 - User Class\clsUsers.h(102,17): warning C4244: '=': conversion from 'double' to 'short', possible loss of data
+  22 - User Class.vcxproj -> D:\source\11 - OOP as it Should Be (Applications)\22 - User Class\x64\Debug\22 - User Class.exe

@@ -1,0 +1,56 @@
+﻿  31 - Complete project.cpp
+D:\source\11 - OOP as it Should Be (Applications)\31 - Complete project\31 - Complete project\MyLib\clsString.h(134,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\31 - Complete project\31 - Complete project\MyLib\clsString.h(240,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\31 - Complete project\31 - Complete project\MyLib\clsString.h(263,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\31 - Complete project\31 - Complete project\MyLib\clsString.h(345,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\31 - Complete project\31 - Complete project\MyLib\clsString.h(394,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\31 - Complete project\31 - Complete project\MyLib\clsString.h(408,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\31 - Complete project\31 - Complete project\clsScreen.h(33,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\31 - Complete project\31 - Complete project\clsScreen.h(37,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\31 - Complete project\31 - Complete project\clsAddNewClients.h(20,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\31 - Complete project\31 - Complete project\clsUpdateClient.h(18,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\31 - Complete project\31 - Complete project\clsDeposit.h(25,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\31 - Complete project\31 - Complete project\clsWithdraw.h(23,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\31 - Complete project\31 - Complete project\MyLib\clsUtility.h(254,6): warning C4091: 'static ': ignored on left of 'clsUtility::stPiggyBankContent' when no variable is declared
+D:\source\11 - OOP as it Should Be (Applications)\31 - Complete project\31 - Complete project\MyLib\clsUtility.h(288,6): warning C4091: 'static ': ignored on left of 'clsUtility::SimpleCalculator' when no variable is declared
+D:\source\11 - OOP as it Should Be (Applications)\31 - Complete project\31 - Complete project\MyLib\clsUtility.h(431,6): warning C4091: 'static ': ignored on left of 'clsUtility::strTaskDuration' when no variable is declared
+D:\source\11 - OOP as it Should Be (Applications)\31 - Complete project\31 - Complete project\MyLib\clsUtility.h(69,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\31 - Complete project\31 - Complete project\MyLib\clsUtility.h(69,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\31 - Complete project\31 - Complete project\MyLib\clsUtility.h(69,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\31 - Complete project\31 - Complete project\MyLib\clsUtility.h(114,21): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\31 - Complete project\31 - Complete project\MyLib\clsUtility.h(124,21): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\31 - Complete project\31 - Complete project\MyLib\clsUtility.h(129,42): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\31 - Complete project\31 - Complete project\MyLib\clsUtility.h(134,39): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\31 - Complete project\31 - Complete project\MyLib\clsUtility.h(139,43): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\31 - Complete project\31 - Complete project\MyLib\clsUtility.h(145,22): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\31 - Complete project\31 - Complete project\MyLib\clsUtility.h(231,1): warning C4305: 'return': truncation from 'double' to 'float'
+D:\source\11 - OOP as it Should Be (Applications)\31 - Complete project\31 - Complete project\MyLib\clsUtility.h(234,1): warning C4305: 'return': truncation from 'double' to 'float'
+D:\source\11 - OOP as it Should Be (Applications)\31 - Complete project\31 - Complete project\MyLib\clsUtility.h(237,1): warning C4305: 'return': truncation from 'double' to 'float'
+D:\source\11 - OOP as it Should Be (Applications)\31 - Complete project\31 - Complete project\MyLib\clsUtility.h(240,1): warning C4305: 'return': truncation from 'double' to 'float'
+D:\source\11 - OOP as it Should Be (Applications)\31 - Complete project\31 - Complete project\MyLib\clsUtility.h(374,21): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\31 - Complete project\31 - Complete project\MyLib\clsUtility.h(379,82): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\31 - Complete project\31 - Complete project\MyLib\clsUtility.h(379,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\31 - Complete project\31 - Complete project\MyLib\clsUtility.h(388,34): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\31 - Complete project\31 - Complete project\MyLib\clsUtility.h(436,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\31 - Complete project\31 - Complete project\MyLib\clsUtility.h(437,32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\31 - Complete project\31 - Complete project\MyLib\clsUtility.h(438,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\31 - Complete project\31 - Complete project\MyLib\clsUtility.h(439,34): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\31 - Complete project\31 - Complete project\MyLib\clsUtility.h(455,34): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\31 - Complete project\31 - Complete project\MyLib\clsUtility.h(457,35): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\31 - Complete project\31 - Complete project\MyLib\clsUtility.h(459,36): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\31 - Complete project\31 - Complete project\MyLib\clsUtility.h(1068,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\31 - Complete project\31 - Complete project\MyLib\clsUtility.h(1077,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\31 - Complete project\31 - Complete project\MyLib\clsUtility.h(1093,20): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\31 - Complete project\31 - Complete project\MyLib\clsUtility.h(1097,25): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\31 - Complete project\31 - Complete project\MyLib\clsUtility.h(1100,31): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\31 - Complete project\31 - Complete project\MyLib\clsUtility.h(1102,24): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\31 - Complete project\31 - Complete project\MyLib\clsUtility.h(1108,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\31 - Complete project\31 - Complete project\MyLib\clsUtility.h(1112,20): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\31 - Complete project\31 - Complete project\MyLib\clsUtility.h(1117,24): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\31 - Complete project\31 - Complete project\MyLib\clsUtility.h(1119,24): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\31 - Complete project\31 - Complete project\MyLib\clsUtility.h(1126,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\source\11 - OOP as it Should Be (Applications)\31 - Complete project\31 - Complete project\MyLib\clsUtility.h(1301,28): warning C4244: 'initializing': conversion from 'float' to 'short', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\31 - Complete project\31 - Complete project\clsTotalBalances.h(36,53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\31 - Complete project\31 - Complete project\clsBank.h(195): warning C4715: 'clsBankClient::Save': not all control paths return a value
+D:\source\11 - OOP as it Should Be (Applications)\31 - Complete project\31 - Complete project\clsUser.h(213): warning C4715: 'clsUser::Save': not all control paths return a value
+  31 - Complete project.vcxproj -> D:\source\11 - OOP as it Should Be (Applications)\31 - Complete project\x64\Debug\31 - Complete project.exe

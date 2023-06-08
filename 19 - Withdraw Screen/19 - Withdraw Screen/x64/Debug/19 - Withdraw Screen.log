@@ -1,0 +1,14 @@
+﻿  19 - Withdraw Screen.cpp
+D:\source\11 - OOP as it Should Be (Applications)\19 - Withdraw Screen\19 - Withdraw Screen\clsString.h(134,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\19 - Withdraw Screen\19 - Withdraw Screen\clsString.h(240,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\19 - Withdraw Screen\19 - Withdraw Screen\clsString.h(263,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\19 - Withdraw Screen\19 - Withdraw Screen\clsString.h(345,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\19 - Withdraw Screen\19 - Withdraw Screen\clsString.h(394,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\19 - Withdraw Screen\19 - Withdraw Screen\clsString.h(408,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\19 - Withdraw Screen\19 - Withdraw Screen\clsBankClient.h(290,22): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\19 - Withdraw Screen\19 - Withdraw Screen\clsBankClient.h(298,23): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\19 - Withdraw Screen\19 - Withdraw Screen\clsScreen.h(23,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\19 - Withdraw Screen\19 - Withdraw Screen\clsScreen.h(59,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\19 - Withdraw Screen\19 - Withdraw Screen\clsUpdateClientScreen.h(30,73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\19 - Withdraw Screen\19 - Withdraw Screen\clsBankClient.h(250): warning C4715: 'clsBankClient::Save': not all control paths return a value
+  19 - Withdraw Screen.vcxproj -> D:\source\11 - OOP as it Should Be (Applications)\19 - Withdraw Screen\x64\Debug\19 - Withdraw Screen.exe

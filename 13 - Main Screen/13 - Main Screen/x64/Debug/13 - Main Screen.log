@@ -1,0 +1,16 @@
+﻿  13 - Main Screen.cpp
+D:\source\11 - OOP as it Should Be (Applications)\13 - Main Screen\13 - Main Screen\clsString.h(134,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\13 - Main Screen\13 - Main Screen\clsString.h(240,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\13 - Main Screen\13 - Main Screen\clsString.h(263,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\13 - Main Screen\13 - Main Screen\clsString.h(345,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\13 - Main Screen\13 - Main Screen\clsString.h(394,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\13 - Main Screen\13 - Main Screen\clsString.h(408,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  clsClientList.cpp
+D:\source\11 - OOP as it Should Be (Applications)\13 - Main Screen\13 - Main Screen\clsString.h(134,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\13 - Main Screen\13 - Main Screen\clsString.h(240,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\13 - Main Screen\13 - Main Screen\clsString.h(263,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\13 - Main Screen\13 - Main Screen\clsString.h(345,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\13 - Main Screen\13 - Main Screen\clsString.h(394,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\13 - Main Screen\13 - Main Screen\clsString.h(408,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  Generating Code...
+  13 - Main Screen.vcxproj -> D:\source\11 - OOP as it Should Be (Applications)\13 - Main Screen\x64\Debug\13 - Main Screen.exe

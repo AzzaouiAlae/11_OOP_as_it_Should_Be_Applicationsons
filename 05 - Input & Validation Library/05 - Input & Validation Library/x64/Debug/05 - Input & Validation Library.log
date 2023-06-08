@@ -1,0 +1,10 @@
+﻿  05 - Input & Validation Library.cpp
+D:\source\11 - OOP as it Should Be (Applications)\05 - Input & Validation Library\05 - Input & Validation Library\clsString.h(134,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\05 - Input & Validation Library\05 - Input & Validation Library\clsString.h(240,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\05 - Input & Validation Library\05 - Input & Validation Library\clsString.h(263,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\05 - Input & Validation Library\05 - Input & Validation Library\clsString.h(345,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\05 - Input & Validation Library\05 - Input & Validation Library\clsString.h(394,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\05 - Input & Validation Library\05 - Input & Validation Library\clsString.h(408,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\05 - Input & Validation Library\05 - Input & Validation Library\clsDate.h(237,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\05 - Input & Validation Library\05 - Input & Validation Library\clsDate.h(241,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  05 - Input & Validation Library.vcxproj -> D:\source\11 - OOP as it Should Be (Applications)\05 - Input & Validation Library\x64\Debug\05 - Input & Validation Library.exe

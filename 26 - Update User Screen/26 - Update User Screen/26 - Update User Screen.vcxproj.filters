@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Bank">
+      <UniqueIdentifier>{de80fa1b-bd72-472e-b3d7-a8183235dd7b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\MainMeune">
+      <UniqueIdentifier>{354607bc-ff66-4b6f-a541-cabb7c112ebb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\MainMeune\ManageUser">
+      <UniqueIdentifier>{6afbd5df-00d5-48b1-b494-ccd8830061cb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\MainMeune\TansactionMenue">
+      <UniqueIdentifier>{e6345039-894e-4f32-aeb5-b1bb20235833}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\MyLib">
+      <UniqueIdentifier>{ba8c5a74-0fd5-4f05-83f4-1d46f32388eb}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="26 - Update User Screen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="clsAddNewClient.h">
+      <Filter>Header Files\MainMeune</Filter>
+    </ClInclude>
+    <ClInclude Include="clsAddNewUsers.h">
+      <Filter>Header Files\MainMeune\ManageUser</Filter>
+    </ClInclude>
+    <ClInclude Include="clsBankClient.h">
+      <Filter>Header Files\Bank</Filter>
+    </ClInclude>
+    <ClInclude Include="clsClientList.h">
+      <Filter>Header Files\MainMeune</Filter>
+    </ClInclude>
+    <ClInclude Include="clsDeleteClientsScreen.h">
+      <Filter>Header Files\MainMeune</Filter>
+    </ClInclude>
+    <ClInclude Include="clsDeleteUserScreen.h">
+      <Filter>Header Files\MainMeune\ManageUser</Filter>
+    </ClInclude>
+    <ClInclude Include="clsDepositScreen.h">
+      <Filter>Header Files\MainMeune\TansactionMenue</Filter>
+    </ClInclude>
+    <ClInclude Include="clsFindClients.h">
+      <Filter>Header Files\MainMeune</Filter>
+    </ClInclude>
+    <ClInclude Include="clsInputValidation.h">
+      <Filter>Header Files\MyLib</Filter>
+    </ClInclude>
+    <ClInclude Include="clsListUser.h">
+      <Filter>Header Files\MainMeune\ManageUser</Filter>
+    </ClInclude>
+    <ClInclude Include="clsMainScreen.h">
+      <Filter>Header Files\Bank</Filter>
+    </ClInclude>
+    <ClInclude Include="clsManageUsersScreen.h">
+      <Filter>Header Files\MainMeune</Filter>
+    </ClInclude>
+    <ClInclude Include="clsPerson.h">
+      <Filter>Header Files\Bank</Filter>
+    </ClInclude>
+    <ClInclude Include="clsScreen.h">
+      <Filter>Header Files\Bank</Filter>
+    </ClInclude>
+    <ClInclude Include="clsString.h">
+      <Filter>Header Files\MyLib</Filter>
+    </ClInclude>
+    <ClInclude Include="clsTotalBalancesScreen.h">
+      <Filter>Header Files\MainMeune\TansactionMenue</Filter>
+    </ClInclude>
+    <ClInclude Include="clsTransactionMenueScreen.h">
+      <Filter>Header Files\MainMeune</Filter>
+    </ClInclude>
+    <ClInclude Include="clsUpdateClientScreen.h">
+      <Filter>Header Files\MainMeune</Filter>
+    </ClInclude>
+    <ClInclude Include="clsUsers.h">
+      <Filter>Header Files\Bank</Filter>
+    </ClInclude>
+    <ClInclude Include="clsUtility.h">
+      <Filter>Header Files\MyLib</Filter>
+    </ClInclude>
+    <ClInclude Include="clsWithdrawScreen.h">
+      <Filter>Header Files\MainMeune\TansactionMenue</Filter>
+    </ClInclude>
+    <ClInclude Include="clsUpdateUsersScreen.h">
+      <Filter>Header Files\MainMeune\ManageUser</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

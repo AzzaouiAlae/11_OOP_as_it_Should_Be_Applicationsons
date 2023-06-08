@@ -1,0 +1,57 @@
+﻿  26 - Update User Screen.cpp
+D:\source\11 - OOP as it Should Be (Applications)\26 - Update User Screen\26 - Update User Screen\clsString.h(134,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\26 - Update User Screen\26 - Update User Screen\clsString.h(240,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\26 - Update User Screen\26 - Update User Screen\clsString.h(263,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\26 - Update User Screen\26 - Update User Screen\clsString.h(345,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\26 - Update User Screen\26 - Update User Screen\clsString.h(394,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\26 - Update User Screen\26 - Update User Screen\clsString.h(408,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\26 - Update User Screen\26 - Update User Screen\clsBankClient.h(290,22): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\26 - Update User Screen\26 - Update User Screen\clsBankClient.h(298,23): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\26 - Update User Screen\26 - Update User Screen\clsUsers.h(34,106): warning C4244: 'argument': conversion from 'double' to 'short', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\26 - Update User Screen\26 - Update User Screen\clsUsers.h(157,17): warning C4244: '=': conversion from 'double' to 'short', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\26 - Update User Screen\26 - Update User Screen\clsScreen.h(38,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\26 - Update User Screen\26 - Update User Screen\clsScreen.h(50,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\26 - Update User Screen\26 - Update User Screen\clsScreen.h(86,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\26 - Update User Screen\26 - Update User Screen\clsUtility.h(253,6): warning C4091: 'static ': ignored on left of 'clsUtility::stPiggyBankContent' when no variable is declared
+D:\source\11 - OOP as it Should Be (Applications)\26 - Update User Screen\26 - Update User Screen\clsUtility.h(287,6): warning C4091: 'static ': ignored on left of 'clsUtility::SimpleCalculator' when no variable is declared
+D:\source\11 - OOP as it Should Be (Applications)\26 - Update User Screen\26 - Update User Screen\clsUtility.h(430,6): warning C4091: 'static ': ignored on left of 'clsUtility::strTaskDuration' when no variable is declared
+D:\source\11 - OOP as it Should Be (Applications)\26 - Update User Screen\26 - Update User Screen\clsUtility.h(68,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\26 - Update User Screen\26 - Update User Screen\clsUtility.h(68,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\26 - Update User Screen\26 - Update User Screen\clsUtility.h(68,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\26 - Update User Screen\26 - Update User Screen\clsUtility.h(113,21): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\26 - Update User Screen\26 - Update User Screen\clsUtility.h(123,21): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\26 - Update User Screen\26 - Update User Screen\clsUtility.h(128,42): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\26 - Update User Screen\26 - Update User Screen\clsUtility.h(133,39): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\26 - Update User Screen\26 - Update User Screen\clsUtility.h(138,43): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\26 - Update User Screen\26 - Update User Screen\clsUtility.h(144,22): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\26 - Update User Screen\26 - Update User Screen\clsUtility.h(230,1): warning C4305: 'return': truncation from 'double' to 'float'
+D:\source\11 - OOP as it Should Be (Applications)\26 - Update User Screen\26 - Update User Screen\clsUtility.h(233,1): warning C4305: 'return': truncation from 'double' to 'float'
+D:\source\11 - OOP as it Should Be (Applications)\26 - Update User Screen\26 - Update User Screen\clsUtility.h(236,1): warning C4305: 'return': truncation from 'double' to 'float'
+D:\source\11 - OOP as it Should Be (Applications)\26 - Update User Screen\26 - Update User Screen\clsUtility.h(239,1): warning C4305: 'return': truncation from 'double' to 'float'
+D:\source\11 - OOP as it Should Be (Applications)\26 - Update User Screen\26 - Update User Screen\clsUtility.h(373,21): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\26 - Update User Screen\26 - Update User Screen\clsUtility.h(378,82): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\26 - Update User Screen\26 - Update User Screen\clsUtility.h(378,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\26 - Update User Screen\26 - Update User Screen\clsUtility.h(387,34): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\26 - Update User Screen\26 - Update User Screen\clsUtility.h(435,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\26 - Update User Screen\26 - Update User Screen\clsUtility.h(436,32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\26 - Update User Screen\26 - Update User Screen\clsUtility.h(437,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\26 - Update User Screen\26 - Update User Screen\clsUtility.h(438,34): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\26 - Update User Screen\26 - Update User Screen\clsUtility.h(454,34): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\26 - Update User Screen\26 - Update User Screen\clsUtility.h(456,35): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\26 - Update User Screen\26 - Update User Screen\clsUtility.h(458,36): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\26 - Update User Screen\26 - Update User Screen\clsUtility.h(1067,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\26 - Update User Screen\26 - Update User Screen\clsUtility.h(1076,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\26 - Update User Screen\26 - Update User Screen\clsUtility.h(1092,20): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\26 - Update User Screen\26 - Update User Screen\clsUtility.h(1096,25): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\26 - Update User Screen\26 - Update User Screen\clsUtility.h(1099,31): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\26 - Update User Screen\26 - Update User Screen\clsUtility.h(1101,24): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\26 - Update User Screen\26 - Update User Screen\clsUtility.h(1107,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\26 - Update User Screen\26 - Update User Screen\clsUtility.h(1111,20): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\26 - Update User Screen\26 - Update User Screen\clsUtility.h(1116,24): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\26 - Update User Screen\26 - Update User Screen\clsUtility.h(1118,24): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\26 - Update User Screen\26 - Update User Screen\clsUtility.h(1125,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\source\11 - OOP as it Should Be (Applications)\26 - Update User Screen\26 - Update User Screen\clsUtility.h(1300,28): warning C4244: 'initializing': conversion from 'float' to 'short', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\26 - Update User Screen\26 - Update User Screen\clsTotalBalancesScreen.h(46,61): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\26 - Update User Screen\26 - Update User Screen\clsBankClient.h(250): warning C4715: 'clsBankClient::Save': not all control paths return a value
+D:\source\11 - OOP as it Should Be (Applications)\26 - Update User Screen\26 - Update User Screen\clsUsers.h(240): warning C4715: 'clsUsers::Save': not all control paths return a value
+  26 - Update User Screen.vcxproj -> D:\source\11 - OOP as it Should Be (Applications)\26 - Update User Screen\x64\Debug\26 - Update User Screen.exe

@@ -1,0 +1,8 @@
+﻿  07 - Find Client.cpp
+D:\source\11 - OOP as it Should Be (Applications)\07 - Find Client\07 - Find Client\clsString.h(134,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\07 - Find Client\07 - Find Client\clsString.h(240,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\07 - Find Client\07 - Find Client\clsString.h(263,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\07 - Find Client\07 - Find Client\clsString.h(345,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\07 - Find Client\07 - Find Client\clsString.h(394,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\07 - Find Client\07 - Find Client\clsString.h(408,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  07 - Find Client.vcxproj -> D:\source\11 - OOP as it Should Be (Applications)\07 - Find Client\x64\Debug\07 - Find Client.exe

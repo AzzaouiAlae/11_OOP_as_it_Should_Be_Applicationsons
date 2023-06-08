@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Resource Files\Bank">
+      <UniqueIdentifier>{c875d0f7-6b20-4e9a-babf-66ceda53de98}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\MainMenu">
+      <UniqueIdentifier>{adcb1cfd-8fbe-4279-82e9-2bd20deaaae3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\MainMenu\ManageUsers">
+      <UniqueIdentifier>{6ded3268-c390-4c1c-9886-f126fcc5a6a1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\MainMenu\Transaction">
+      <UniqueIdentifier>{dd306839-c0e4-483a-8c9a-d7b706d846a1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\MyLib">
+      <UniqueIdentifier>{4755ca1e-b1c7-4f4f-a473-533ae4285125}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\MainMenu\Currency">
+      <UniqueIdentifier>{354ea71e-eb1e-4fee-b972-3ead4380ab78}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="32 - Add Date and Logged In User to All Screens.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Bank\clsBank.h">
+      <Filter>Resource Files\Bank</Filter>
+    </ClInclude>
+    <ClInclude Include="Bank\clsMainMenu.h">
+      <Filter>Resource Files\Bank</Filter>
+    </ClInclude>
+    <ClInclude Include="Bank\clsPerson.h">
+      <Filter>Resource Files\Bank</Filter>
+    </ClInclude>
+    <ClInclude Include="Bank\clsScreen.h">
+      <Filter>Resource Files\Bank</Filter>
+    </ClInclude>
+    <ClInclude Include="Bank\clsUser.h">
+      <Filter>Resource Files\Bank</Filter>
+    </ClInclude>
+    <ClInclude Include="MainMenu\clsAddNewClients.h">
+      <Filter>Resource Files\MainMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="MainMenu\clsDeleteClients.h">
+      <Filter>Resource Files\MainMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="MainMenu\clsFindClient.h">
+      <Filter>Resource Files\MainMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="MainMenu\clsManageUsers.h">
+      <Filter>Resource Files\MainMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="MainMenu\clsShowClientsList.h">
+      <Filter>Resource Files\MainMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="MainMenu\clsTransactionClient.h">
+      <Filter>Resource Files\MainMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="MainMenu\clsUpdateClient.h">
+      <Filter>Resource Files\MainMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="MainMenu\ManageUsers\clsAddNewUser.h">
+      <Filter>Resource Files\MainMenu\ManageUsers</Filter>
+    </ClInclude>
+    <ClInclude Include="MainMenu\ManageUsers\clsDeleteUsers.h">
+      <Filter>Resource Files\MainMenu\ManageUsers</Filter>
+    </ClInclude>
+    <ClInclude Include="MainMenu\ManageUsers\clsFindUser.h">
+      <Filter>Resource Files\MainMenu\ManageUsers</Filter>
+    </ClInclude>
+    <ClInclude Include="MainMenu\ManageUsers\clsListUsersScreen.h">
+      <Filter>Resource Files\MainMenu\ManageUsers</Filter>
+    </ClInclude>
+    <ClInclude Include="MainMenu\ManageUsers\clsUpdateUser.h">
+      <Filter>Resource Files\MainMenu\ManageUsers</Filter>
+    </ClInclude>
+    <ClInclude Include="MainMenu\Transaction\clsDeposit.h">
+      <Filter>Resource Files\MainMenu\Transaction</Filter>
+    </ClInclude>
+    <ClInclude Include="MainMenu\Transaction\clsTotalBalances.h">
+      <Filter>Resource Files\MainMenu\Transaction</Filter>
+    </ClInclude>
+    <ClInclude Include="MainMenu\Transaction\clsWithdraw.h">
+      <Filter>Resource Files\MainMenu\Transaction</Filter>
+    </ClInclude>
+    <ClInclude Include="MyLib\clsInputValidation.h">
+      <Filter>Resource Files\MyLib</Filter>
+    </ClInclude>
+    <ClInclude Include="MyLib\clsString.h">
+      <Filter>Resource Files\MyLib</Filter>
+    </ClInclude>
+    <ClInclude Include="MyLib\clsUtility.h">
+      <Filter>Resource Files\MyLib</Filter>
+    </ClInclude>
+    <ClInclude Include="clsLogin.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Global.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MyLib\clsDate.h">
+      <Filter>Resource Files\MyLib</Filter>
+    </ClInclude>
+    <ClInclude Include="clsLoginRegisterScreen.h">
+      <Filter>Resource Files\MainMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="clsTransferScreen.h">
+      <Filter>Resource Files\MainMenu\Transaction</Filter>
+    </ClInclude>
+    <ClInclude Include="clsLogRegister.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="clsTransferLogScreen.h">
+      <Filter>Resource Files\MainMenu\Transaction</Filter>
+    </ClInclude>
+    <ClInclude Include="InterfaceCommunication.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="clsCurrency.h">
+      <Filter>Resource Files\Bank</Filter>
+    </ClInclude>
+    <ClInclude Include="clsShowCurrencyScreen.h">
+      <Filter>Resource Files\MainMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="clsListCurrencies.h">
+      <Filter>Resource Files\MainMenu\Currency</Filter>
+    </ClInclude>
+    <ClInclude Include="clsFindCurrency.h">
+      <Filter>Resource Files\MainMenu\Currency</Filter>
+    </ClInclude>
+    <ClInclude Include="clsUpdateRateScreen.h">
+      <Filter>Resource Files\MainMenu\Currency</Filter>
+    </ClInclude>
+    <ClInclude Include="clsCurrencyCalculator.h">
+      <Filter>Resource Files\MainMenu\Currency</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

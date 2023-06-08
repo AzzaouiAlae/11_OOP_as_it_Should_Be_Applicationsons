@@ -1,0 +1,12 @@
+﻿  35 - Template Classes.cpp
+D:\source\11 - OOP as it Should Be (Applications)\35 - Template Classes\35 - Template Classes\35 - Template Classes.cpp(49,41): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\source\11 - OOP as it Should Be (Applications)\35 - Template Classes\35 - Template Classes\35 - Template Classes.cpp(49,34): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+  35 - Template Classes.vcxproj -> D:\source\11 - OOP as it Should Be (Applications)\35 - Template Classes\x64\Debug\35 - Template Classes.exe

@@ -1,0 +1,8 @@
+﻿  11 - List Clients.cpp
+D:\source\11 - OOP as it Should Be (Applications)\11 - List Clients\11 - List Clients\clsString.h(134,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\11 - List Clients\11 - List Clients\clsString.h(240,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\11 - List Clients\11 - List Clients\clsString.h(263,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\11 - List Clients\11 - List Clients\clsString.h(345,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\11 - List Clients\11 - List Clients\clsString.h(394,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\source\11 - OOP as it Should Be (Applications)\11 - List Clients\11 - List Clients\clsString.h(408,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  11 - List Clients.vcxproj -> D:\source\11 - OOP as it Should Be (Applications)\11 - List Clients\x64\Debug\11 - List Clients.exe
